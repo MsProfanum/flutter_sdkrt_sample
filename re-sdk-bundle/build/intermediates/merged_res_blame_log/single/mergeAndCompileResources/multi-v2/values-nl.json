@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/incremental_merged_res/single/mergeAndCompileResources/merged.dir/values-nl/values-nl.xml",
+            "map": [
+                {
+                    "source": "/Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,359,459,566,670,789",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "152,254,354,454,561,665,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

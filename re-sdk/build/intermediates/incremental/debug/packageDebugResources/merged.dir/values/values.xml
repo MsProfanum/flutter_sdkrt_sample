@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_click_prompt">Click this banner to launch activity from SDK Runtime.</string>
+    <string name="banner_ad_label">Rendered from the SDK Runtime for %1$s</string>
+    <string name="full_screen_ad_label">Rendered from an Activity launched and controlled by the SDK Runtime</string>
+    <string name="mediation_option_none">NONE</string>
+    <string name="mediation_option_re_inapp">INAPP_MEDIATEE</string>
+    <string name="mediation_option_re_re">RUNTIME_MEDIATEE</string>
+</resources>

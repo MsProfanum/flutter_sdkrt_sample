@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml:1:1-4:12
+MERGED from [:re-sdk] /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:14:1-19:12
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-provider:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/57eb9ad9ae5c24ec105ddf1d177e8c4e/transformed/sdkruntime-provider-1.0.0-alpha14/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-core:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/0f27dca44f05850ba7e547cd4ab47aba/transformed/sdkruntime-core-1.0.0-alpha14/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.activity:activity-provider:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/e7bfa58cbb21253c6a6eb9bfb97cf77a/transformed/activity-provider-1.0.0-alpha01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.activity:activity-core:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/9d1b4b65c0ea44798468316a07608706/transformed/activity-core-1.0.0-alpha01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.activity:activity-client:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/219fe728d5bee10fcdf8b4ae053f51fa/transformed/activity-client-1.0.0-alpha01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ui:ui-provider:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/e51cc1c4c57bfabbdaae06c690db63bc/transformed/ui-provider-1.0.0-alpha09/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ui:ui-core:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8dcf99c07f8017d7757908c7dde44ec0/transformed/ui-core-1.0.0-alpha09/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ui:ui-client:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/ee48df8154ae644f19c69f4061bd5fc6/transformed/ui-client-1.0.0-alpha09/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/41966473163006bc07403cdef1cb044f/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/b99303c1559d117462e6eca4b28df737/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8104b989aa9366e1b85dab5714acd24e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/af2d5af2e18d5826c8a2bcf25622b030/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/2ed9105ca7ca79e0decd5a847b2efd47/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/f7386cb392c024ef0d9cf1691829d7d6/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/b8a2af208978ae348743259eea892b1a/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/072d00143c10a8973ce57fc089331210/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/cc431e59c923549c866f26b5487223cc/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/bc0995d58a850e7b7c96b1bc368ce2cb/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/798a6abe51c9ebb9f5f0af736a327987/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/d5486abf2495df576cf0147df49346b2/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/db83009c4820c963cd587414df3b5988/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/5f7e9090ffff0828f12b0e6b03b467f7/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/a285c35ab131f6db0f6518f00185782a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/a3ff9c67aee9c42277b06761ad1005ec/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/86ee072c388e68c91c999998381e6b7e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml:2:5-63
+application
+ADDED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml:3:5-20
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/db83009c4820c963cd587414df3b5988/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/db83009c4820c963cd587414df3b5988/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+uses-sdk
+INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml
+INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml
+MERGED from [:re-sdk] /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:5-44
+MERGED from [:re-sdk] /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk/build/intermediates/merged_manifest/debug/processDebugManifest/AndroidManifest.xml:17:5-44
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-provider:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/57eb9ad9ae5c24ec105ddf1d177e8c4e/transformed/sdkruntime-provider-1.0.0-alpha14/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-provider:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/57eb9ad9ae5c24ec105ddf1d177e8c4e/transformed/sdkruntime-provider-1.0.0-alpha14/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-core:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/0f27dca44f05850ba7e547cd4ab47aba/transformed/sdkruntime-core-1.0.0-alpha14/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-core:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/0f27dca44f05850ba7e547cd4ab47aba/transformed/sdkruntime-core-1.0.0-alpha14/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.activity:activity-provider:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/e7bfa58cbb21253c6a6eb9bfb97cf77a/transformed/activity-provider-1.0.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.activity:activity-provider:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/e7bfa58cbb21253c6a6eb9bfb97cf77a/transformed/activity-provider-1.0.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.activity:activity-core:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/9d1b4b65c0ea44798468316a07608706/transformed/activity-core-1.0.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.activity:activity-core:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/9d1b4b65c0ea44798468316a07608706/transformed/activity-core-1.0.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.activity:activity-client:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/219fe728d5bee10fcdf8b4ae053f51fa/transformed/activity-client-1.0.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.activity:activity-client:1.0.0-alpha01] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/219fe728d5bee10fcdf8b4ae053f51fa/transformed/activity-client-1.0.0-alpha01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ui:ui-provider:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/e51cc1c4c57bfabbdaae06c690db63bc/transformed/ui-provider-1.0.0-alpha09/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ui:ui-provider:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/e51cc1c4c57bfabbdaae06c690db63bc/transformed/ui-provider-1.0.0-alpha09/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ui:ui-core:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8dcf99c07f8017d7757908c7dde44ec0/transformed/ui-core-1.0.0-alpha09/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ui:ui-core:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8dcf99c07f8017d7757908c7dde44ec0/transformed/ui-core-1.0.0-alpha09/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ui:ui-client:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/ee48df8154ae644f19c69f4061bd5fc6/transformed/ui-client-1.0.0-alpha09/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ui:ui-client:1.0.0-alpha09] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/ee48df8154ae644f19c69f4061bd5fc6/transformed/ui-client-1.0.0-alpha09/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/41966473163006bc07403cdef1cb044f/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/41966473163006bc07403cdef1cb044f/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/b99303c1559d117462e6eca4b28df737/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/b99303c1559d117462e6eca4b28df737/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8104b989aa9366e1b85dab5714acd24e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8104b989aa9366e1b85dab5714acd24e/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/af2d5af2e18d5826c8a2bcf25622b030/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/af2d5af2e18d5826c8a2bcf25622b030/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/2ed9105ca7ca79e0decd5a847b2efd47/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/2ed9105ca7ca79e0decd5a847b2efd47/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/f7386cb392c024ef0d9cf1691829d7d6/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/f7386cb392c024ef0d9cf1691829d7d6/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/b8a2af208978ae348743259eea892b1a/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/b8a2af208978ae348743259eea892b1a/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/072d00143c10a8973ce57fc089331210/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/072d00143c10a8973ce57fc089331210/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/cc431e59c923549c866f26b5487223cc/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/cc431e59c923549c866f26b5487223cc/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/bc0995d58a850e7b7c96b1bc368ce2cb/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/bc0995d58a850e7b7c96b1bc368ce2cb/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/798a6abe51c9ebb9f5f0af736a327987/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/798a6abe51c9ebb9f5f0af736a327987/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/d5486abf2495df576cf0147df49346b2/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/d5486abf2495df576cf0147df49346b2/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/db83009c4820c963cd587414df3b5988/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/db83009c4820c963cd587414df3b5988/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/5f7e9090ffff0828f12b0e6b03b467f7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/5f7e9090ffff0828f12b0e6b03b467f7/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/a285c35ab131f6db0f6518f00185782a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/a285c35ab131f6db0f6518f00185782a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/a3ff9c67aee9c42277b06761ad1005ec/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/a3ff9c67aee9c42277b06761ad1005ec/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/86ee072c388e68c91c999998381e6b7e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/86ee072c388e68c91c999998381e6b7e/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kstrzyz/Projects/SDKRT-Unity3d/SDKRTSampleLibrary/re-sdk-bundle/build/intermediates/sandbox_manifest/single/mainManifestGenerator/AndroidManifest.xml
+activity#androidx.privacysandbox.sdkruntime.client.activity.SdkActivity
+ADDED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.privacysandbox.sdkruntime:sdkruntime-client:1.0.0-alpha14] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/603b5925f4a9ec809d32f61c1a7d6f75/transformed/sdkruntime-client-1.0.0-alpha14/AndroidManifest.xml:24:13-90
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.example.sdk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.sdk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/1804be22825fc55e9dd126d46b5aa694/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/8366fa5780623bea198f493e5b80aafb/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/kstrzyz/.gradle/caches/8.10.2/transforms/97910d787cf391d32e0a73ca422433e2/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
