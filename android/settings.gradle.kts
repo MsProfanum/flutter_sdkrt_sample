@@ -18,3 +18,8 @@ pluginManagement {
 
 include(":app")
 include(":ra-sdk")
+project(":ra-sdk").projectDir = file("../ra-sdk")
+include(":re-sdk")
+project(":re-sdk").projectDir = file("../re-sdk")
+include(":re-sdk-bundle")
+project(":re-sdk-bundle").projectDir = file("../re-sdk-bundle")
